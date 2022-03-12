@@ -1,9 +1,8 @@
 ---
 title: LGL - the Large Graph Layout
 ---
-<a href="http://clairemcwhite.github.io/lgl-guide/"><img src="http://www.visualcomplexity.com/vc/images/120_big01.jpg" width="500"/></a>
-<br>*[Protein Homology Graph, Edward Marcotte and Alex Adai, MOMA](http://www.moma.org/interactives/exhibitions/2008/elasticmind/#/211/)*
-
+<img src="https://raw.githubusercontent.com/clairemcwhite/clairemcwhite.github.io/master/images/homology_graph.jfif" width="300"/>
+<br>[Protein Homology Graph, Edward Marcotte and Alex Adai, MOMA]
 ### The Large Graph Layout (LGL)
 
 Last summer, I had a 500,000 node/million edge network, and no way to look at its structure. Cytoscape maxed out at about 100,000 edges, and for some reason which I can't remember now,  I never got my network to load on the million node capable OpenOrd Layout for Gephi. 
