@@ -1,5 +1,4 @@
 ---
-layout: page
 title: LGL - the Large Graph Layout
 ---
 <a href="http://clairemcwhite.github.io/lgl-guide/"><img src="http://www.visualcomplexity.com/vc/images/120_big01.jpg" width="500"/></a>
