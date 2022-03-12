@@ -2,7 +2,8 @@
 title: LGL - the Large Graph Layout
 ---
 <img src="https://raw.githubusercontent.com/clairemcwhite/clairemcwhite.github.io/master/images/homology_graph.jfif" width="300"/>
-<br>[Protein Homology Graph, Edward Marcotte and Alex Adai, MOMA]
+*Protein Homology Graph, Edward Marcotte and Alex Adai, MOMA*
+
 ### The Large Graph Layout (LGL)
 
 Last summer, I had a 500,000 node/million edge network, and no way to look at its structure. Cytoscape maxed out at about 100,000 edges, and for some reason which I can't remember now,  I never got my network to load on the million node capable OpenOrd Layout for Gephi. 
