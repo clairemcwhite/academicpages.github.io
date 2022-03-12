@@ -17,7 +17,7 @@ I'm interested in the acquisition of novel protein function across evolution. It
 
 #### Contact
 
-cmcwhite at princeton dot edu  
+cmcwhite at princeton.edu  
 Lewis-Sigler Institute for Integrative Genomics
-Icahn Labratory
+Icahn Laboratory
 
