@@ -62,7 +62,9 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 
 **Talks**
 * Systems, Synthetic, and Physical Biology Seminar, Rice University, 2022
+   -- "The language of proteins, and what it reveals about protein function, structure, and evolution"
 * International Society for Computational Biology Webinar seminar, Virtual, 2022
+   -- "Combining evolution and proteomics to discover protein complexes conserved across plants"
 * Western Photosynthesis Conference, Invited talk, remote, 2022
 * Plant Cell Atlas, Invited talk, remote, 2021
 * Polyploidy Webinar, remote, 2020
