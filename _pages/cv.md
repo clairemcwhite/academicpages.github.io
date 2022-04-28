@@ -12,7 +12,7 @@ redirect_from:
 ##### cmcwhite@princeton.edu |  [clairemcwhite.github.io](https://clairemcwhite.github.io) |  [@clairemcwhite](https://twitter.com/clairemcwhite) | [Scholar page](https://scholar.google.com/citations?hl=en&user=AOYsDhsAAAAJ )
 
 ##### Lewis-Sigler Scholar, Princeton University
-Independent Postdoc - Protein-centric comparative biology
+Independent Postdoc - Protein-centric comparative biology, natural language models of protein structure and function
 
 
 ##### Ph.D. Cell and Molecular Biology
@@ -24,9 +24,13 @@ Independent Postdoc - Protein-centric comparative biology
  
 **Research Experience**
 
+*Princeton University*
+
+Advisors: Mona Singh, Martin Jonikas, Joshua Akey
+
 *The University of Texas at Austin Department of Molecular Biosciences*
 
-* Dr. Edward Marcotte Research Group (2014-) Projects relating to computational prediction of protein complexes, including 1) conserved complexes of plants and 2) stable complexes of the cilia, and comparative evolution of protein organization across eukaryotes.
+* Dr. Edward Marcotte Research Group (2014-) Projects relating to computational prediction of protein complexes, including 1) conserved complexes of plants and 2) comparative evolution of protein organization across eukaryotes.
 * Dr. Claus Wilke Research Group (2/2015-8/2015) Projects relating to uncovering sources of artifacts in computational evolutionary rate measurement of influenza evolution.
 * Dr. John Wallingford Research Group (11/2014-2/2015) Projects relating to functionally replacing genes in multicellular organisms with genes from single celled organisms.
 
@@ -55,6 +59,15 @@ Independent Postdoc - Protein-centric comparative biology
 * CD McWhite, BJ Liebeskind, EM Marcotte, "Applications of comparative evolution to human disease genetics", Current Opinion in Genetics & Development 35, 16-24, 2015 
 * W Zhao, M Bonem, CD McWhite, JJ Silberg, L Segatori, "Sensitive detection of proteasomal activation using the Deg-On mammalian synthetic gene circuit", Nature Communications 5, 2014
 * A Demelash, P Rudrabhatla, HC Pant, X Wang, ND Amin, CD McWhite, X Naizhen, RI Linnoila, "Achaete-scute homologue-1 (ASH1) stimulates migration of lung cancer cells through Cdk5/p35 pathway", Molecular biology of the cell 23 (15), 2856-2866, 2012
+
+**Talks**
+* Systems, Synthetic, and Physical Biology Seminar, Rice University, 2022
+* International Society for Computational Biology Webinar seminar, Virtual, 2022
+* Western Photosynthesis Conference, Invited talk, remote, 2022
+* Plant Cell Atlas, Invited talk, remote, 2021
+* Polyploidy Webinar, remote, 2020
+* Computing on Phenotypes, Invited talk, Iowa State University, Ames, IA, 4/2019
+* First International Plant Systems Biology Conference, Roscoff, France, 9/2018
 
 **Teaching**
 * Instructor - QCB455/COS551_F2020 Introduction to Genomics and Computational Molecular Biology, Princeton, Fall 2020, Fall 2021. 
@@ -100,13 +113,7 @@ Independent Postdoc - Protein-centric comparative biology
 * Speaker at BAHFest Texas, A festival of bad ad-hoc hypotheses, Spring, 2018
 
 
-<!--
-**Talks**
 
-* Plant Cell Atlas, Invited talk, remote, 2021
-* 
-* Computing on Phenotypes, Invited talk, Iowa State University, Ames, IA, 4/2019
-* First International Plant Systems Biology Conference, Roscoff, France, 9/2018
 
 **Posters**
 
@@ -126,6 +133,4 @@ Independent Postdoc - Protein-centric comparative biology
 
 * Quest for Orthologs Consortium
 * Plant Cell Atlas
--->
-
 
