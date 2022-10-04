@@ -12,7 +12,7 @@ redirect_from:
 ##### cmcwhite@princeton.edu |  [clairemcwhite.github.io](https://clairemcwhite.github.io) |  [@clairemcwhite](https://twitter.com/clairemcwhite) | [Scholar page](https://scholar.google.com/citations?hl=en&user=AOYsDhsAAAAJ )
 
 ##### Lewis-Sigler Scholar, Princeton University
-Independent Postdoc - Protein-centric comparative biology, natural language models of protein structure and function
+Protein-centric comparative biology, natural language models of protein structure and function
 
 
 ##### Ph.D. Cell and Molecular Biology
@@ -44,9 +44,10 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
  
 
 **Publications**
-
-* W Sae-Lee W, CL McCafferty, EJ Verbeke, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, G Murphy, K Drew, A Emili, DW Taylor, EM Marcotte, "The protein organization of a red blood cell", BioRXiv, 2021
-* CD McWhite, O Papoulas, K Drew, V Dang, JC Leggere, W Sae-Lee, EM Marcotte, "Co-Fractionation / Mass Spectrometry to Identify Protein Complexes", STAR Protocols, Accepted Manuscript 2021
+* CD McWhite, W Sae-Lee, Y Yuan, AL Mallam, NA Gort-Freitas, S Ramundo, M Onishi, EM Marcotte, "Alternative proteoforms and proteoform-dependent assemblies in humans and plants", BioRXiv, 2022
+* L Wang, W Patena, KA Van Baalen, Y Xie, ER Singer, S Gavrilenko, M Warren-Williams, L Han, HR Harrigan, V Chen, VTNP Ton, S Kyin, HH Shwe, MH Cahn, AT Wilson, J Hu, DJ Schnell, CD McWhite, M Jonikas, "A Chloroplast Protein Atlas Reveals Novel Structures and Spatial Organization of Biosynthetic Pathways", BioRXiv, 2022
+* W Sae-Lee W, CL McCafferty, EJ Verbeke, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, G Murphy, K Drew, A Emili, DW Taylor, EM Marcotte, "The protein organization of a red blood cell", Cell Systems, 2022
+* CD McWhite, O Papoulas, K Drew, V Dang, JC Leggere, W Sae-Lee, EM Marcotte, "Co-Fractionation / Mass Spectrometry to Identify Protein Complexes", STAR Protocols, 2021
 * A Zeileis, JC Fisher, K Hornik, R Ihaka, CD McWhite, P Murrell, R Stauffer, CO Wilke, "colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes", Journal of Statistical Software, 96:1 2020 doi: 10.18637/jss.v096.i01
 * K Drew, C Lee, RM Cox, V Dang, CC Devitt, CD McWhite, O Papoulas, RL Huizar, EM Marcotte, JB Wallingford, "A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating machinery", Developmental Biology 467:1-2 2020
 * CD McWhite,O Papoulas, K Drew, RM Cox, V June, OX Dong, T Kwon, C Wan, ML Salmi, SJ Roux, KS Browning, ZJ Chen, PC Ronald, EM Marcotte, "A pan-plant protein complex map reveals deep conservation and novel assemblies", Cell 181:2 2020 
@@ -61,10 +62,9 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 * A Demelash, P Rudrabhatla, HC Pant, X Wang, ND Amin, CD McWhite, X Naizhen, RI Linnoila, "Achaete-scute homologue-1 (ASH1) stimulates migration of lung cancer cells through Cdk5/p35 pathway", Molecular biology of the cell 23 (15), 2856-2866, 2012
 
 **Talks**
+* Mendel Early Career Symposium, Invited talk, Vienna BioCenter, 2022
 * Systems, Synthetic, and Physical Biology Seminar, Rice University, 2022
-   -- "The language of proteins, and what it reveals about protein function, structure, and evolution"
 * International Society for Computational Biology Webinar seminar, Virtual, 2022
-   -- "Combining evolution and proteomics to discover protein complexes conserved across plants"
 * Western Photosynthesis Conference, Invited talk, remote, 2022
 * Plant Cell Atlas, Invited talk, remote, 2021
 * Polyploidy Webinar, remote, 2020
@@ -72,7 +72,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 * First International Plant Systems Biology Conference, Roscoff, France, 9/2018
 
 **Teaching**
-* Instructor - QCB455/COS551_F2020 Introduction to Genomics and Computational Molecular Biology, Princeton, Fall 2020, Fall 2021. 
+* Instructor - QCB455/COS551_F2020 Introduction to Genomics and Computational Molecular Biology, Princeton, Fall 2020, 2021, 2022
 * Teacher's Assistant - Advanced Bash Scripting Short Course, UT Austin, Spring 2019
 * Teacher's Assistant - Intro to Next-Generation Sequencing Short Course, UT Austin, Spring 2018
 * Co-instructor - Peer-led Biocomputing Working Group: Python/Bash, UT Austin, Spring 2017
@@ -94,9 +94,10 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
  
 **Honors**
 
+* Princeton Engineering Commendation for Outstanding Teaching, 2021
 * Best Talk, First International Plant Systems Biology Conference, Fall, 2018
-* Student Choice Award, UT Austin Natural Sciences Council's Art in Science Display, 3/2017, for my network visualization of gene orthology relationships.
-* Visualizing Science Competition, 2nd Place, UT Austin College of Natural Sciences, 11/2016, my visualization of gene-gene relationships is hanging in the departmental office.
+* Student Choice Award, UT Austin Natural Sciences Council's Art in Science Display, 3/2017
+* Visualizing Science Competition, 2nd Place, UT Austin College of Natural Sciences, 11/2016
 * Graduate Student Research Award, Society of Systemic Biologists, 7/2016
 * Selected Artist, Evolution Art Exhibition, Art.Science.Gallery, 6/2016
 * Best Poster, UT Austin Institute for Cellular and Molecular Biology Retreat, 9/2015
@@ -114,11 +115,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 * Introduction to Network Visualization, Austin R Users Group, Spring, 2018
 * Speaker at BAHFest Texas, A festival of bad ad-hoc hypotheses, Spring, 2018
 
-
-
-
 **Posters**
-
 * US HUPO, Charleston, SC, 3/2022
 * US HUPO, remote, 2021
 * The Society for Molecular Biology and Evolution, Austin, TX, 7/2017
