@@ -44,22 +44,29 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
  
 
 **Publications**
-* CD McWhite, W Sae-Lee, Y Yuan, AL Mallam, NA Gort-Freitas, S Ramundo, M Onishi, EM Marcotte, "Alternative proteoforms and proteoform-dependent assemblies in humans and plants", BioRXiv, 2022
-* L Wang, W Patena, KA Van Baalen, Y Xie, ER Singer, S Gavrilenko, M Warren-Williams, L Han, HR Harrigan, V Chen, VTNP Ton, S Kyin, HH Shwe, MH Cahn, AT Wilson, J Hu, DJ Schnell, CD McWhite, M Jonikas, "A Chloroplast Protein Atlas Reveals Novel Structures and Spatial Organization of Biosynthetic Pathways", BioRXiv, 2022
-* W Sae-Lee W, CL McCafferty, EJ Verbeke, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, G Murphy, K Drew, A Emili, DW Taylor, EM Marcotte, "The protein organization of a red blood cell", Cell Systems, 2022
-* CD McWhite, O Papoulas, K Drew, V Dang, JC Leggere, W Sae-Lee, EM Marcotte, "Co-Fractionation / Mass Spectrometry to Identify Protein Complexes", STAR Protocols, 2021
-* A Zeileis, JC Fisher, K Hornik, R Ihaka, CD McWhite, P Murrell, R Stauffer, CO Wilke, "colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes", Journal of Statistical Software, 96:1 2020 doi: 10.18637/jss.v096.i01
-* K Drew, C Lee, RM Cox, V Dang, CC Devitt, CD McWhite, O Papoulas, RL Huizar, EM Marcotte, JB Wallingford, "A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating machinery", Developmental Biology 467:1-2 2020
-* CD McWhite,O Papoulas, K Drew, RM Cox, V June, OX Dong, T Kwon, C Wan, ML Salmi, SJ Roux, KS Browning, ZJ Chen, PC Ronald, EM Marcotte, "A pan-plant protein complex map reveals deep conservation and novel assemblies", Cell 181:2 2020 
-* CD DuPai, CD McWhite, CB Smith, R Garten, S Maurer-Stroh, CO Wilke, "Influenza passaging annotations: what they tell us and why we should listen", Virus Evolution 5 (1), vez016 2019
-* W Zhao, B Bachhav, C McWhite, L Segatori, "A yeast selection system for the detection of proteasomal activation", Protein Engineering, Design and Selection 31 (11), 437-445
-* AH Kachroo, JM Laurent, A Akhmetov, M Szilagyi-Jones, CD McWhite, A Zhao, EM Marcotte, "Systematic bacterialization of yeast genes identifies a near-universally swappable pathway", eLife 2017;6:e25093
-* KS Drew, C Lee, RL Huizar, F Tu, B Borgeson, CD McWhite, Y Ma, JB Wallingford, EM Marcotte, "Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes", Molecular Systems Biology (2017) 13, 932
-* BJ Liebeskind, CD McWhite, EM Marcotte, "Towards Consensus Gene Ages", Genome Biology and Evolution 8 (6): 1812-1823, 2016
-* CD McWhite, AG Meyer, CO Wilke, "Sequence amplification via cell passaging creates spurious signals of positive adaptation in influenza virus H3N2 hemagglutinin", Virus Evolution 2 (2):vew026, 2016
-* CD McWhite, BJ Liebeskind, EM Marcotte, "Applications of comparative evolution to human disease genetics", Current Opinion in Genetics & Development 35, 16-24, 2015 
-* W Zhao, M Bonem, CD McWhite, JJ Silberg, L Segatori, "Sensitive detection of proteasomal activation using the Deg-On mammalian synthetic gene circuit", Nature Communications 5, 2014
-* A Demelash, P Rudrabhatla, HC Pant, X Wang, ND Amin, CD McWhite, X Naizhen, RI Linnoila, "Achaete-scute homologue-1 (ASH1) stimulates migration of lung cancer cells through Cdk5/p35 pathway", Molecular biology of the cell 23 (15), 2856-2866, 2012
+* CD McWhite, M Singh, “Vector-clustering Multiple Sequence Alignment: Aligning into the twilight zone of protein sequence similarity with protein language models”, BioRXiv, 2022.10.21.513099, 2022
+* CD McWhite, W Sae-Lee, Y Yuan, AL Mallam, NA Gort-Freitas, S Ramundo, M Onishi, EM Marcotte, "Alternative proteoforms and proteoform-dependent assemblies in humans and plants", BioRXiv 2022.09.21.508930, 2022
+* L Wang, W Patena, KA Van Baalen, Y Xie, ER Singer, S Gavrilenko, M WarrenWilliams, L Han, HR Harrigan, V Chen, VTNP Ton, S Kyin, HH Shwe, MH Cahn, AT Wilson, J Hu, DJ Schnell, CD McWhite, M Jonikas, "A Chloroplast Protein Atlas Reveals Novel Structures and Spatial Organization of Biosynthetic Pathways", BioRXiv
+2022.05.31.493820v1, 2022
+* V de Crécy-Lagard, …, CD McWhite, …, “A roadmap for the functional annotation of protein families: a community perspective”, Database baac062, 2022
+* W Sae-Lee W, CL McCafferty, EJ Verbeke, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, G Murphy, K Drew, A Emili, DW Taylor, EM Marcotte, “The protein organization of a red blood cell”, Cell Reports 40(3):111103, 2022
+* CD McWhite, O Papoulas, K Drew, V Dang, JC Leggere, W Sae-Lee, EM Marcotte,
+“Co-Fractionation / Mass Spectrometry to Identify Protein Complexes”, STAR Protocols 2:1, 2021
+* A Zeileis, JC Fisher, K Hornik, R Ihaka, CD McWhite, P Murrell, R Stauffer, CO Wilke, “colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes”, Journal of Statistical Software, 96:1, 2020
+* K Drew, C Lee, RM Cox, V Dang, CC Devitt, CD McWhite, O Papoulas, RL Huizar, EM Marcotte, JB Wallingford, “A systematic, label-free method for identifying RNAassociated proteins in vivo provides insights into vertebrate ciliary beating machinery”, Developmental Biology 467:1-2, 2020
+* CD McWhite, O Papoulas, K Drew, RM Cox, V June, OX Dong, T Kwon, C Wan, ML
+Salmi, SJ Roux, KS Browning, ZJ Chen, PC Ronald, EM Marcotte, “A pan-plant protein complex map reveals deep conservation and novel assemblies”, Cell 181:2, 2020
+* CD DuPai, CD McWhite, CB Smith, R Garten, S Maurer-Stroh, CO Wilke, “Influenza passaging annotations: what they tell us and why we should listen”, Virus Evolution 5(1), vez016, 2019
+* W Zhao, B Bachhav, CD McWhite, L Segatori, “A yeast selection system for the detection of proteasomal activation”, Protein Engineering, Design and Selection 31 (11), 437-445, 2018
+* AH Kachroo, JM Laurent, A Akhmetov, M Szilagyi-Jones, CD McWhite, A Zhao, EM Marcotte, “Systematic bacterialization of yeast genes identifies a near-universally swappable pathway”, eLife 6:e25093, 2017
+* KS Drew, C Lee, RL Huizar, F Tu, B Borgeson, CD McWhite, Y Ma, JB Wallingford, EM Marcotte, “Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes”, Molecular Systems Biology 13:932, 2017
+* BJ Liebeskind, CD McWhite, EM Marcotte, “Towards Consensus Gene Ages”, Genome Biology and Evolution 8 (6): 1812-1823, 2016
+* CD McWhite, AG Meyer, CO Wilke, “Sequence amplification via cell passaging creates spurious signals of positive adaptation in influenza virus H3N2 hemagglutinin”, Virus Evolution 2 (2):vew026, 2016
+* CD McWhite, BJ Liebeskind, EM Marcotte, “Applications of comparative evolution to human disease genetics”, Current Opinion in Genetics & Development 35, 16-24, 2015
+* W Zhao, M Bonem, CD McWhite, JJ Silberg, L Segatori, “Sensitive detection of proteasomal activation using the Deg-On mammalian synthetic gene circuit”, Nature Communications 5, 2014
+* A Demelash, P Rudrabhatla, HC Pant, X Wang, ND Amin, CD McWhite, X Naizhen, RI Linnoila, “Achaete-scute homologue-1 (ASH1) stimulates migration of lung cancer cells through the Cdk5/p35 pathway”, Molecular Biology of the Cell 23 (15), 2856-2866, 2012 
+
+
 
 **Talks**
 * Mendel Early Career Symposium, Invited talk, Vienna BioCenter, 2022
@@ -72,7 +79,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 * First International Plant Systems Biology Conference, Roscoff, France, 9/2018
 
 **Teaching**
-* Instructor - QCB455/COS551_F2020 Introduction to Genomics and Computational Molecular Biology, Princeton, Fall 2020, 2021, 2022
+* Instructor - QCB455/MOL455/COS455 Introduction to Genomics and Computational Molecular Biology, Princeton, Fall 2020, 2021, 2022
 * Teacher's Assistant - Advanced Bash Scripting Short Course, UT Austin, Spring 2019
 * Teacher's Assistant - Intro to Next-Generation Sequencing Short Course, UT Austin, Spring 2018
 * Co-instructor - Peer-led Biocomputing Working Group: Python/Bash, UT Austin, Spring 2017
@@ -84,7 +91,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
 **Fellowhips and scholarships**
 
 * Lewis-Sigler Scholar, Princeton University, 2020-
-* NIH F31 Graduate Fellowship, "Proteomics of ciliopathy protein complexes" Impact score: 10, Percentile: 1% , 1/2018-
+* NIH F31 Graduate Fellowship, "Proteomics of ciliopathy protein complexes" Impact score: 10, Percentile: 1% , 2018-2020
 * Graduate School Summer Fellowship, Summer, 2017
 * Honorable Mention, NSF Graduate Research Fellowship Program (2016)
 * Spring/Fall Graduate Fellowship, UT Austin (8/2014-5/2015)
@@ -111,6 +118,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
  
 **Outreach**
 
+* Introduction to Alphafold2, Fall 2022 
 * Introduction to Data Visualization in R, Fall 2019
 * Introduction to Network Visualization, Austin R Users Group, Spring, 2018
 * Speaker at BAHFest Texas, A festival of bad ad-hoc hypotheses, Spring, 2018
