@@ -44,7 +44,7 @@ Advisors: Mona Singh, Martin Jonikas, Joshua Akey
  
 
 **Publications**
-* CD McWhite, M Singh, “Vector-clustering Multiple Sequence Alignment: Aligning into the twilight zone of protein sequence similarity with protein language models”, BioRXiv, 2022.10.21.513099, 2022
+* CD McWhite, M Singh, “Vector-clustering Multiple Sequence Alignment: Aligning into the twilight zone of protein sequence similarity with protein language models”, BioRXiv 2022.10.21.513099, 2022
 * CD McWhite, W Sae-Lee, Y Yuan, AL Mallam, NA Gort-Freitas, S Ramundo, M Onishi, EM Marcotte, "Alternative proteoforms and proteoform-dependent assemblies in humans and plants", BioRXiv 2022.09.21.508930, 2022
 * L Wang, W Patena, KA Van Baalen, Y Xie, ER Singer, S Gavrilenko, M WarrenWilliams, L Han, HR Harrigan, V Chen, VTNP Ton, S Kyin, HH Shwe, MH Cahn, AT Wilson, J Hu, DJ Schnell, CD McWhite, M Jonikas, "A Chloroplast Protein Atlas Reveals Novel Structures and Spatial Organization of Biosynthetic Pathways", BioRXiv
 2022.05.31.493820v1, 2022
