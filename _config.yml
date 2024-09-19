@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Claire McWhite"
 title_separator          : "-"
 name                     : &name "Claire McWhite"
-description              : &description "Lewis-Sigler Scholar at Princeton University"
+description              : &description "Assistant Professor at the University of Arizona"
 url                      : https://clairemcwhite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clairemcwhite/clairemcwhite.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages" 
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Claire McWhite"
   avatar           : "20220101_120909_crop_profpic.jpg"
-  bio              : "Lewis-Sigler Scholar at Princeton University"
-  location         : "Princeton University"
+  bio              : "Assistant Professor, Deparatment of Molecular and Cellular Biology"
+  location         : "The University of Arizona"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=claire+mcwhite"
   googlescholar    : "https://scholar.google.com/citations?user=claire+mcwhite&user=AOYsDhsAAAAJ"
